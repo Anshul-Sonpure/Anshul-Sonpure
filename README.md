@@ -1,5 +1,5 @@
 <p align="center">
-<img class="center" width="50%" height="auto" src="https://github.com/Anshul-Sonpure/Anshul/blob/main/test.gif"/></p>
+<img class="center" width="50%" height="auto" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/test.gif"/></p>
 
 <h1 align="center">Hi, I'm Anshul Sonpure</h1>
 <h3 align="center">Having over 4 Years of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Along with good knowledge on Web/API development and Web Security testing.</h3>
@@ -53,7 +53,7 @@
 
 <a href = "https://www.linkedin.com/in/anshul-sonpure/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/anshul-sonpure"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = " https://anshul-sonpure.herokuapp.com/index.html"><img  height="40" src="https://github.com/Anshul-Sonpure/Anshul/blob/main/heroku.png"/></a>
+<a href = " https://anshul-sonpure.herokuapp.com/index.html"><img  height="40" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/heroku.png"/></a>
 <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
  
 
@@ -63,5 +63,5 @@
 ![](https://komarev.com/ghpvc/?username=anshul-sonpure&style=flat-square)
 </a>
 <a href="https://github.com/anshul-sonpure?tab=followers"><img src="https://img.shields.io/github/followers/anshul-sonpure?label=Followers&style=social" alt="GitHub Badge"></a>
- <img align="right" alt="GIF" src="https://github.com/Anshul-Sonpure/Anshul/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/code.gif?raw=true" width="500" height="320" />
  
