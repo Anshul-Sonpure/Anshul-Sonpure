@@ -1,8 +1,12 @@
 <p align="center">
 <img class="center" width="50%" height="auto" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/test.gif"/></p>
 
-<h1 align="center">Hi, I'm Anshul Sonpure</h1>
-<h3 align="center">Having over 4 Years of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Along with good knowledge on Web/API development and Web Security testing.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=3000&color=2537C8&center=true&vCenter=true&lines=Hi%2C+I'm+Anshul+Sonpure;Software+Test+Engineer;Experienced+in+Manual%2C;Automation+and+API+Testing;I'm+Cybersecurity+Researcher%2C;Web+Security+Tester;I+enjoy+learning+new+things;along+with+Web%2FAPI+development">
+</p>
+
+
+<h3 align="center">Having over 4.6yrs  of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Along with good knowledge on Web/API development and Web Security testing.</h3>
 
 
 ## 1. 🙋‍♂️ About Me
@@ -15,9 +19,9 @@
 
 - Involved in implementation of Test Automation Framework build using Selenium WebDriver, able to handle Web Automation and API testing.
 
-- 📫 How to reach me **a.ansh33@gmail.com**
+- 📫 How to reach me **anshul.sonpure@outlook.com**
 
-- ⚡ Fun fact **I play games and surf internet to learn more about technologies**
+- ⚡ Fun fact **I love playing video games and surfing internet to learn more about technologies**
 
 ## 2. 🚀 Languages and Tools:
 
