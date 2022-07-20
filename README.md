@@ -2,7 +2,7 @@
 <img class="center" width="50%" height="auto" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/test.gif"/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=3000&color=2537C8&center=true&vCenter=true&lines=Hi%2C+I'm+Anshul+Sonpure;Software+Test+Engineer;Experienced+in+Manual%2C;Automation+and+API+Testing;I'm+Cybersecurity+Researcher%2C;Web+Security+Tester;I+enjoy+learning+new+things;along+with+Web%2FAPI+development">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=3500&color=2537C8&center=true&vCenter=true&lines=Hi%2C+I'm+Anshul+Sonpure;Software+Test+Engineer;Experienced+in+Manual%2C;Automation+and+API+Testing;I'm+Cybersecurity+Researcher%2C;Web+Security+Tester;I+enjoy+learning+new+things;along+with+Web%2FAPI+development">
 </p>
 
 
