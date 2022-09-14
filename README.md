@@ -59,7 +59,7 @@
 
 <a href = "https://www.linkedin.com/in/anshul-sonpure/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/anshul-sonpure"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = " https://anshul-sonpure.herokuapp.com/index.html"><img  height="40" src="https://anshul-sonpure.herokuapp.com"/></a>
+<a href = " https://anshul-sonpure.herokuapp.com/index.html"><img  height="40" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/heroku.png"/></a>
 <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
  
 
