@@ -42,18 +42,9 @@
 
 
 
-## 4. Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/anshul-sonpure/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/anshul-sonpure"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://anshul-sonpure.herokuapp.com"><img  height="40" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/heroku.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
- 
 
-</p>
-
-## 5. ❤ Views and Followers
+## 4. ❤ Views and Followers
 ![](https://komarev.com/ghpvc/?username=anshul-sonpure&style=flat-square)
 </a>
 <a href="https://github.com/anshul-sonpure?tab=followers"><img src="https://img.shields.io/github/followers/anshul-sonpure?label=Followers&style=social" alt="GitHub Badge"></a>
