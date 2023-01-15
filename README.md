@@ -5,8 +5,9 @@
 </p>
 <h3>QA Engineer | 5 yrs Experience | Web UI and API Testing | Selenium,JAVA,TestNG,Rest Assured</h3>  -->
 
-<h1 align="center">Hi 👋, I'm Anshul Sonpure</h1>
-<h3 align="center">I'm Anshul Sonpure,SDET having 5 yrs experience in Automation and Funtional Testing.My expertise is in Web-UI Automation, API Testing, and Web-Security Testing.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
+<h1 align="center"><i>Hi 👋, I'm Anshul Sonpure</i></h1>
+
+<h3 align="center" style="color:blue">SDET having 5 yrs experience in Automation and Funtional Testing.My expertise is in Web-UI Automation, API Testing, and Web-Security Testing.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
 
 ## 1. 🙋‍♂️ About Me
 
