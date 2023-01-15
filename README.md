@@ -1,23 +1,25 @@
-<!-- <p align="center">
-<img class="center" width="50%" height="30%" src="https://github.com/Anshul-Sonpure/Anshul-Sonpure/blob/main/test.gif"/></p> -->
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=4500&color=2537C8&center=true&vCenter=true&lines=Hi%2C+I'm+Anshul+Sonpure;Software+Test+Engineer;Experienced+in+Manual%2C;Automation+and+API+Testing;I'm+Cybersecurity+Researcher%2C;Web+Security+Tester;I+enjoy+learning+new+things;along+with+Web%2FAPI+development">
 </p>
-<h3>QA Engineer | 5 yrs Experience | Web UI and API Testing | Selenium,JAVA,TestNG,Rest Assured</h3>
+<h3>QA Engineer | 5 yrs Experience | Web UI and API Testing | Selenium,JAVA,TestNG,Rest Assured</h3>  -->
 
+<h1 align="center">Hi 👋, I'm Anshul Sonpure</h1>
+<h3 align="center">I'm Anshul Sonpure,SDET having 5 yrs experience in Automation and Funtional Testing.My expertise is in Web-UI Automation, API Testing, and Web-Security Testing.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
 
 ## 1. 🙋‍♂️ About Me
 
 - Proficient in Automating Web-UI using Selenium with Java with Page Object Model as Design Pattern and API Automation using Rest Assured and Karate Framework.
 
-- Offering creative problem-solving skills with experience in analysis, custom tools, and automation test engineering.
+- Responsible for the development and execution of test plans, test scenarios, test scripts and bug reporting.
 
-- Responsible for the development and execution of test plans, test scenarios, test scripts Executed and maintained manual test scripts.
-
-- Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG and Maven technologies under Java platform utilizing design    
+- Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG, Maven and Java as a coding platform utilizing design    
   patterns and approaches.
-- Involved in API testing using Postman and strong knowledge of Authentication mechanisms and HTTP Requests and Responses, Headers, Path Params, Query Params, etc.
+  
+- Involved in API testing using Postman,rest assured and strong knowledge of Authentication and Authorization mechanisms and HTTP Requests and Responses, Headers, Path Params, Query Params, etc.
+
+## _Currently_
 
 - 🔭 I’m currently working on **Robot Framework development**
 
@@ -34,7 +36,6 @@
 - 📄 Know about my experiences [https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf](https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf)
 
 - ⚡ Fun fact **I love learning and keen on anything related to Technologies.**
-
 
 
 ## 2. Languages and Tools:
