@@ -22,9 +22,9 @@
 
 ## _Currently_
 
-- 🔭 I’m currently working on **Robot Framework development**
+- 🔭 I’m currently working on **Mutiple Things,learning new Automation Tool, writing articles building my own Blogging site**
 
-- 🌱 I’m currently learning **Python, Web Scrapping, pyautogui**
+- 🌱 I’m currently learning **Python,Appium and API Penetration Testing**
 
 - 👯 I’m looking to collaborate on **Web-UI Automation, API Testing, Mobile Automation and Desktop Application Automation**
 
@@ -33,7 +33,7 @@
 - 💬 Ask me about **WebUI Automation, Rest Assured and Web Development**
 
 - 📫 How to reach me **anshul.sonpure@outlook.com**
-- Follow me on medium at -- https://medium.com/@theautobot
+- 📄 Follow and Read my articles on medium at -- https://medium.com/@theautobot
 
 - 📄 Know about my experiences [https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf](https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf)
 
