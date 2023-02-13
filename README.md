@@ -33,7 +33,8 @@
 - 💬 Ask me about **WebUI Automation, Rest Assured and Web Development**
 
 - 📫 How to reach me **anshul.sonpure@outlook.com**
-- 📄 Follow and Read my articles on medium at -- [https://medium.com/@theautobot](https://medium.com/me/stories/public)
+- 📄 Follow and Read my articles on medium at -- [https://medium.com/@theautobot](https://medium.com/me/stories/public) 
+-    My Blogs at -- https://anshul-sonpure.github.io/TheBloggingBot/
 
 - 📄 Know about my experiences [https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf](https://github.com/Anshul-Sonpure/Anshul_Sonpure/blob/master/Anshul_Sonpure.pdf)
 
