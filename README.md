@@ -15,8 +15,7 @@
 
 - Responsible for the development and execution of test plans, test scenarios, test scripts and bug reporting.
 
-- Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG, Maven and Java as a coding platform utilizing design    
-  patterns and approaches.
+- Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG, Maven and Java as a coding platform utilizing design patterns and approaches.
   
 - Involved in API testing using Postman,rest assured and strong knowledge of Authentication and Authorization mechanisms and HTTP Requests and Responses, Headers, Path Params, Query Params, etc.
 
