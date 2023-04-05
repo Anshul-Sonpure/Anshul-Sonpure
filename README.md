@@ -7,7 +7,7 @@
 
 <h1 align="center"><i>Hi 👋, I'm Anshul Sonpure</i></h1>
 
-<h3 align="center" style="color:blue">SDET having 5 yrs experience in Automation and Funtional Testing.My expertise is in Web-UI Automation, API Testing, and Web-Security Testing.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
+<h3 align="center" style="color:blue">Solution-oriented and problem solver with 5 years of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Complete understanding of QA methodologies and Expertise in performing different kinds of testing. Highly skilled in communication, collaboration, and technical documentation.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
 
 ## 1. 🙋‍♂️ About Me
 
