@@ -11,13 +11,18 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- Proficient in Automating Web-UI using Selenium with Java with Page Object Model as Design Pattern and API Automation using Rest Assured and Karate Framework.
+I'm a QA Automation Engineer with a proven track record in ensuring the quality and reliability of software applications. Whether you're striving to deliver flawless user experiences, enhance system functionalities, or optimize performance, I'm here to contribute my expertise.
 
-- Responsible for the development and execution of test plans, test scenarios, test scripts and bug reporting.
+Here's how I can assist:
 
-- Involved in implementation of Test Automation Framework build using Selenium WebDriver, TestNG, Maven and Java as a coding platform utilizing design patterns and approaches.
-  
-- Involved in API testing using Postman,rest assured and strong knowledge of Authentication and Authorization mechanisms and HTTP Requests and Responses, Headers, Path Params, Query Params, etc.
+- Proficient in automated testing tools and frameworks
+- Skilled in scripting languages like Python, Java, and JavaScript
+- Strong experience in API testing, UI testing, and end-to-end testing
+- Collaborate closely with development teams to identify and address potential issues
+- Implement continuous integration and continuous delivery (CI/CD) pipelines to streamline testing processes
+- Analyze and document test results, track defects, and provide comprehensive reports
+- Dedicated to maintaining open lines of communication, ensuring that all stakeholders are informed about testing progress and outcomes
+- From requirement analysis to final test execution, I'm committed to delivering a comprehensive QA approach that aligns with your project's goals. Let's work together to ensure your software solutions meet the highest standards of quality and reliability.
 
 ## _Currently_
 
