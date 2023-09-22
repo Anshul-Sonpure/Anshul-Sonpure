@@ -1,13 +1,6 @@
-
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=32&duration=4500&color=2537C8&center=true&vCenter=true&lines=Hi%2C+I'm+Anshul+Sonpure;Software+Test+Engineer;Experienced+in+Manual%2C;Automation+and+API+Testing;I'm+Cybersecurity+Researcher%2C;Web+Security+Tester;I+enjoy+learning+new+things;along+with+Web%2FAPI+development">
-</p>
-<h3>QA Engineer | 5 yrs Experience | Web UI and API Testing | Selenium,JAVA,TestNG,Rest Assured</h3>  -->
-
 <h1 align="center"><i>Hi 👋, I'm Anshul Sonpure</i></h1>
+Solution-oriented and problem solver with 5+ years of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Complete understanding of QA methodologies and Expertise in performing different kinds of testing. Highly skilled in communication, collaboration, and technical documentation.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).
 
-<h3 align="center" style="color:blue">Solution-oriented and problem solver with 5 years of experience in both manual and automated software Quality Assurance Testing of client- server, web-based applications and API testing. Complete understanding of QA methodologies and Expertise in performing different kinds of testing. Highly skilled in communication, collaboration, and technical documentation.Passionate to contribute & collaborate on Test Automation Frameworks Development (Web, Mobile and API).</h3>
 
 ## 1. 🙋‍♂️ About Me
 
